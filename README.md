@@ -19,3 +19,9 @@ we need to increase the sales which will lead to profit.
 For this project the data comes from a Kaggle dataset, it tracks the on-time performance of US domestic
 flights operated by large air carriers in 2015. This project gives the insights for the cancellation by 
 airlines and in which state by reason. 
+
+### Project 5:Project 2: Use Advanced Displays and Create Segments
+In this project we have use Goolge Analytics, All insights which has been performed is on Google 
+Merchandise Store Demo account. It is divided into three parts Part One: Primary Views and Filters,
+Part Two: Data Exploration, Part Three: Segmentation.
+
