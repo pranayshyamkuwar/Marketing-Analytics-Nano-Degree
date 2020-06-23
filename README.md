@@ -29,3 +29,6 @@ Part Two: Data Exploration, Part Three: Segmentation.
 In this project we have use Goolge Analytics, All insights which has been performed is on Google 
 Merchandise Store Demo account.
 
+### Project 7: Crafting an Analytic Brief
+For this project, Crafting an Analytics Brief for the company Lime Scooter. 
+
