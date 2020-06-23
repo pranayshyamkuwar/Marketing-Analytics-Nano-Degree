@@ -32,3 +32,6 @@ Merchandise Store Demo account.
 ### Project 7: Crafting an Analytic Brief
 For this project, Crafting an Analytics Brief for the company Lime Scooter. 
 
+### project 8: Create a proposal for the next quater
+For the purpose of this project we will be evaluating the performance of the Black Friday sales for 
+2017 & 2018 using the data provided by Udacity. 
